@@ -1,5 +1,10 @@
 body {
   background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
+  font-family: sans-serif;
+}
+
+.established {
+  font-style: italic;
 }
 
 .menu {
@@ -13,6 +18,10 @@ body {
 
 h1, h2, p {
   text-align: center;
+}
+
+h1, h2 {
+  font-family: Impact, serif;
 }
 
 .flavor, .dessert {
