@@ -43,6 +43,7 @@ h1 {
 
 h2 {
   font-size: 30px;
+  text-transform: uppercase;
 }
 
 img {
@@ -72,10 +73,11 @@ img {
 /* FOOTER */
 footer {
   font-size: 14px;
+  color: aliceblue;
 }
 
 a {
-  color: black;
+  color: aliceblue;
 }
 
 a:visited {
